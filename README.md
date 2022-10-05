@@ -2,7 +2,7 @@
 ## Software engineer in the making 
 
 - 🌱 Curious about everything 
-- 🥅 2022 Goals: Dig deeper into Machine Learning & Blockchain Technologies
+- 🥅 Looking for end of year studies in software engineering : full-stack & cloud, with a 
 - ⚡ Copywriter & Content Creator in my spare time
 
 ### Connect with me:
